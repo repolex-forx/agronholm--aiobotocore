@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/agronholm/aiobotocore/commit/29b97290dc6efc11a56399a40433899184763c56",
+  "@type": "git:Commit",
+  "git:hexsha": "29b97290dc6efc11a56399a40433899184763c56",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/agronholm/aiobotocore"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/29b97290dc6efc11a56399a40433899184763c56.nq.gz",
+      "repolex:graphFileSize": 21242
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 528969
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 486
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-11T20:00:45.908992+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
