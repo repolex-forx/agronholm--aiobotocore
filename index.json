@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "aiobotocore",
+  "versions": [
+    {
+      "commit": "29b97290dc6efc11a56399a40433899184763c56",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:03:57.329417+00:00"
+    }
+  ]
+}
